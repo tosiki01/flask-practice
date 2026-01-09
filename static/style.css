@@ -1,0 +1,16 @@
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    background-color: yellow;
+}
+
+.error {
+    color: red;
+}
